@@ -5,9 +5,9 @@ body{
 
 #mainmenu{
       width:70%;
-      float:left;
+      float:right;
 } 
 #mainimage{
       width:90%;
-      border:3px;
+      border:5px;
 }
